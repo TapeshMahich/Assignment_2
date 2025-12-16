@@ -1,2 +1,2 @@
-task 1  - for task 1  the logic is that when the provided number is devided by 2 , if the remainder is zero , then its a even number , else it is a odd number 
-task 2 - for t
+task 1  - for task 1  the logic is that when the provided number is devided by 2 , if the remainder is zero , then its a even number , else it is a odd number.
+task 2 - for task 2 we need to add numbers 1 to 50. so we are going to use 'for' loop because we know already the range of our operation , we will set the range from 1 to 51 , because we need the number 50 , and as we know already the 51 will not be included in the addition.
